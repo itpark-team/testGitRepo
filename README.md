@@ -1,4 +1,4 @@
 # testGitRepo
 
-[x] hello
-[] punkt
+* hello
+* punkt
